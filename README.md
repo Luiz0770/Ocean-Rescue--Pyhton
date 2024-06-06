@@ -18,10 +18,6 @@ Bem-vindo ao repositório do **Ocean Rescue**. Este projeto é uma aplicação s
 
 A nossa aplicação visa monitorar e melhorar as condições das praias, permitindo que os usuários consultem a qualidade da água, condição da praia e o nível de poluição. Os usuários também podem enviar feedback sobre as condições da praia, que serão armazenadas e atualizadas no sistema.
 
-- Consulta dos dados de qualidade da água, condição da praia e nível de poluição.
-- Envio de feedback sobre a condição da praia, nível de poluição e qualidade da água.
-- Atualização dos dados das praias com base no feedback recebido.
-
 ## 🛠️ Funcionalidades
 
 - Consultar dados de uma praia específica, incluindo qualidade da água, condição da praia e nível de poluição.
@@ -32,17 +28,6 @@ A nossa aplicação visa monitorar e melhorar as condições das praias, permiti
 
 - Python 3.x
 - Um ambiente de execução de terminal/console
-
-## ⚙️ Instruções de Uso
-
-1. **Execução do Programa:**
-   - Execute o script Python fornecido.
-
-2. **Operação:**
-   - O programa solicitará o seu nome.
-   - Você poderá escolher entre consultar dados da praia ou enviar feedback sobre a presença de lixo.
-     - **Consultar dados da praia:** Exibe a qualidade da água, condição da praia e nível de poluição.
-     - **Enviar feedback:** Permite enviar feedback sobre a condição da praia, nível de poluição e qualidade da água.
 
 ## 🔧 Instalação
 
@@ -58,14 +43,8 @@ A nossa aplicação visa monitorar e melhorar as condições das praias, permiti
     ```sh
     cd ocean-rescue
     ```
-2. **Execução do Script:**
-   - Execute o script a partir da linha de comando ou de um ambiente de desenvolvimento integrado (IDE) de sua preferência.
 
-## 📦 Dependências
-
-Este projeto não possui dependências externas além do Python padrão.
-
-## 📝 Como Usar
+## ⚙️ Instruções de Uso
 
 1. Execute o script principal:
     ```sh
@@ -91,6 +70,10 @@ Qualidade da água: Boa
 Condição da Praia: Boa
 Nível de Poluição: Alta
 ```
+
+## 📦 Dependências
+
+Este projeto não possui dependências externas além do Python padrão.
 
 ## 📄 Licença
 
