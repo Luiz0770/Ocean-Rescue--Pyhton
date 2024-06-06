@@ -1,6 +1,6 @@
 # Ocean Rescue: Sistema de Monitoramento e Analise da Condição das Praias e dos Oceanos
 
-Bem-vindo ao repositório do **Ocean Rescue**. Este projeto é uma aplicação simples em Python que permite aos usuários consultar dados sobre a condição das praias e dos oceanos, e enviar feedback sobre a presença de lixo, condicao da praia e qualidade da agua. 
+Bem-vindo ao repositório do **Ocean Rescue**. Este projeto é uma aplicação em Python que permite aos usuários consultar dados sobre a condição das praias e dos oceanos. 
 
 ## 📑 Sumário
 
@@ -54,6 +54,7 @@ A nossa aplicação visa monitorar e melhorar as condições das praias, permiti
     - Digite seu nome para iniciar.
     - Escolha uma opção do menu para consultar dados da praia ou enviar feedback.
     - Siga os prompts para fornecer as informações necessárias
+
 ### Exemplo de Uso
 
 ```sh
